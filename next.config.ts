@@ -1,12 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
-  basePath: '/Tetris-armFit.github.io',    // your repo name
-  assetPrefix: '/Tetris-armFit.github.io/', // serve assets from /static
+  output: 'export', 
+  images: { unoptimized: true }, 
+  basePath: '/Tetris-armFit.github.io', 
+  assetPrefix: '/Tetris-armFit.github.io/', 
 };
 
 module.exports = nextConfig;
+
+
 
 // import type { NextConfig } from "next";
 

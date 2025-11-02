@@ -7,10 +7,10 @@ const features = [
 ];
 
 const members = [
-  { imageSrc: '/profile/pitchaya.jpg', name: 'พิชญ บาศรี', stdID: '67070114'},
-  { imageSrc: '/profile/peerawit.jpg', name: 'พีรวิชญ์ นันท์จันทึก ', stdID: '67070122'},
-  { imageSrc: '/profile/meswadee.jpg', name: 'เมษ์วดี สีดา', stdID: '67070144'},
-  { imageSrc: '/profile/varaporn.jpg', name: 'วราภรณ์ สุขม่วง', stdID: '67070159'}
+  { imageSrc: '/Tetris-armFit.github.io/profile/pitchaya.jpg', name: 'พิชญ บาศรี', stdID: '67070114'},
+  { imageSrc: '/Tetris-armFit.github.io/profile/peerawit.jpg', name: 'พีรวิชญ์ นันท์จันทึก ', stdID: '67070122'},
+  { imageSrc: '/Tetris-armFit.github.io/profile/meswadee.jpg', name: 'เมษ์วดี สีดา', stdID: '67070144'},
+  { imageSrc: '/Tetris-armFit.github.io/profile/varaporn.jpg', name: 'วราภรณ์ สุขม่วง', stdID: '67070159'}
 ];
 
 const resources = [

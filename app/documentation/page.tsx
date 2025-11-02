@@ -5,11 +5,11 @@ import { useState } from 'react';
 import Image from 'next/image'; 
 
 const hardwareItems = [
-    {   title: 'Microcontroller', name: 'Arduino Uno R3',  imageSrc: '/images/arduino.webp',
+    {   title: 'Microcontroller', name: 'Arduino Uno R3',  imageSrc: '/Tetris-armFit.github.io/images/arduino.webp',
         description: 'บอร์ด Microcontroller หลักทึ่ใช้ในงานนี้',
-    },{ title: 'Sensor :',  name: 'GY-521 MPU-6050 MPU6050 3 Axis Accelerometer Gyroscope',    imageSrc: '/images/mpu.jpg',
+    },{ title: 'Sensor :',  name: 'GY-521 MPU-6050 MPU6050 3 Axis Accelerometer Gyroscope',    imageSrc: '/Tetris-armFit.github.io/images/mpu.jpg',
         description: 'Gyroscope , หาความเร่งในแต่ละทิศทาง สำหรับใช้ในการควบคุมทิศทางของ Tetris',
-    },{ title: 'Display Result',  name: 'MAX7219 LED Dot Matrix Display',      imageSrc: '/images/led.jpg',
+    },{ title: 'Display Result',  name: 'MAX7219 LED Dot Matrix Display',      imageSrc: '/Tetris-armFit.github.io/images/led.jpg',
         description: 'ใช้แสดงผลขณะเล่นเกม ',
     },
 ];
