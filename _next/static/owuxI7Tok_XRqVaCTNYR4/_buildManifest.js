@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/public/_next/:path+",
-        "destination": "/_next/:path+"
+        "source": "/Tetris-armFit.github.io//_next/:path+",
+        "destination": "/Tetris-armFit.github.io/_next/:path+"
       }
     ],
     "fallback": []
