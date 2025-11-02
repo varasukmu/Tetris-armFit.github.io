@@ -17,7 +17,7 @@ const resources = [
   {
     title: 'Poster',    text: 'Dowload PDF',
     action: 'Download', color: 'blue',
-    link: '/resource/poster.pdf',
+    link: 'https://drive.google.com/file/d/174ljK9u0TY0yTRY581leRgN78XX6lAw1/view?usp=sharing',
   },
   {
     title: 'Video Presentation',  text: 'Youtube link',
